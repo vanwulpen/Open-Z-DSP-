@@ -1,0 +1,10 @@
+1> Pass-Thru L/R => L/R                         
+2> Flip L/R => R/L                              
+3> Pass-Thru L/R => L/R                         
+4> Flip L/R => R/L                              
+5> Pass-Thru L/R => L/R                         
+6> Flip L/R => R/L                              
+7> Pass-Thru L/R => L/R                         
+8> Flip L/R => R/L                              
+    Open Z-DSP          by: Kevin Vanwulpen     
+  Sequential L/R flip                           
